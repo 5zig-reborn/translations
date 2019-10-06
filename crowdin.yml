@@ -3,3 +3,20 @@ files:
     translation: /resources/lang/44/language_%locale_with_underscore%.properties
   - source: /resources/assets/the5zigmod/lang/en_us.lang
     translation: /resources/assets/the5zigmod/lang/%locale_with_underscore%.lang
+    languages_mapping:
+      locale:
+        fr_FR: fr_fr
+        es_ES: es_es
+        cs_CZ: cs_cz
+        da_DK: da_dk
+        de_DE: de_de
+        it_IT: it_it
+        ja_JP: ja_jp
+        nl_NL: nl_nl
+        pl_PL: pl_pl
+        ru_RU: ru_ru
+        sv_SE: sv_se
+        tr_TR: tr_tr
+        zh_CN: zh_cn
+        en_US: en_us
+        pt_BR: pt_br
