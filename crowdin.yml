@@ -4,7 +4,7 @@ files:
   - source: /resources/assets/the5zigmod/lang/en_us.lang
     translation: /resources/assets/the5zigmod/lang/%locale_with_underscore%.lang
     languages_mapping:
-      locale:
+      locale_with_underscore:
         fr_FR: fr_fr
         es_ES: es_es
         cs_CZ: cs_cz
