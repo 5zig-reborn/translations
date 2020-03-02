@@ -1,11 +1,12 @@
-the5zigmod.key.toggle_mod=(D\u00e9s)activer mod
-the5zigmod.key.toggle_chat=(D\u00e9s)activer chat
+the5zigmod.key.toggle_mod=(Dés)activer mod
+the5zigmod.key.toggle_chat=(Dés)activer chat
 the5zigmod.key.coordinates_clipboard=Presse-Papiers des coord.
 the5zigmod.key.raid_calculator=MCPVP Calculatrice Raid
 the5zigmod.key.hypixel_stats=Stats d'Hypixel
 the5zigmod.key.zoom=Zoomer
-the5zigmod.key.timer.start=D\u00e9marrer chronom\u00e8tre
-the5zigmod.key.timer.reset=Rer\u00e9gler chronom\u00e8tre
+the5zigmod.key.timer.start=Démarrer chronomètre
+the5zigmod.key.timer.reset=Rerégler chronomètre
 the5zigmod.key.teamspeak=TeamSpeak
 the5zigmod.key.username_history=Hisorique de pseudo
-the5zigmod.key.toggle_chat_filter=(D\u00e9s)activer filtre de chat
+the5zigmod.key.toggle_chat_filter=(Dés)activer filtre de chat
+the5zigmod.key.change_account=Change account
