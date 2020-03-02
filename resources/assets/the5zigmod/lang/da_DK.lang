@@ -1,5 +1,5 @@
-the5zigmod.key.toggle_mod=Sl\u00e5 Mod Til/Fra
-the5zigmod.key.toggle_chat=Sl\u00e5 Chat Til/Fra
+the5zigmod.key.toggle_mod=Slå Mod Til/Fra
+the5zigmod.key.toggle_chat=Slå Chat Til/Fra
 the5zigmod.key.coordinates_clipboard=Koordinat Klippebord
 the5zigmod.key.raid_calculator=MCPVP Raid Lommeregner
 the5zigmod.key.hypixel_stats=Hypixel Statistikker
@@ -8,4 +8,5 @@ the5zigmod.key.timer.start=Timer Til/Fra
 the5zigmod.key.timer.reset=Nulstil Timer
 the5zigmod.key.teamspeak=TeamSpeak
 the5zigmod.key.username_history=Brugernavns Historie
-the5zigmod.key.toggle_chat_filter=Sl\u00e5 Chat Filter Til/Fra
+the5zigmod.key.toggle_chat_filter=Slå Chat Filter Til/Fra
+the5zigmod.key.change_account=Skift konto
