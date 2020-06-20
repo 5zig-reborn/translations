@@ -1,5 +1,5 @@
-the5zigmod.key.toggle_mod=Toggle Mod
-the5zigmod.key.toggle_chat=Toggle Chat
+the5zigmod.key.toggle_mod=切换模组
+the5zigmod.key.toggle_chat=切换聊天
 the5zigmod.key.coordinates_clipboard=Coord Clipboard
 the5zigmod.key.raid_calculator=MCPVP Raid Calculator
 the5zigmod.key.hypixel_stats=Hypixel 数据
@@ -8,5 +8,5 @@ the5zigmod.key.timer.start=Timer Toggle Start
 the5zigmod.key.timer.reset=重置计时器
 the5zigmod.key.teamspeak=TeamSpeak
 the5zigmod.key.username_history=历史用户名
-the5zigmod.key.toggle_chat_filter=Toggle Chat Filter
+the5zigmod.key.toggle_chat_filter=切换聊天过滤器
 the5zigmod.key.change_account=更换账号
