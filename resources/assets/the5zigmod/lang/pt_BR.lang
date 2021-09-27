@@ -1,4 +1,4 @@
-the5zigmod.key.toggle_mod=Mostrar/ocultar mod
+the5zigmod.key.toggle_mod=Toggle Mod
 the5zigmod.key.toggle_chat=Toggle Chat
 the5zigmod.key.coordinates_clipboard=Módulo de Coordenadas
 the5zigmod.key.raid_calculator=Calculadora de Raid MCPVP
@@ -8,5 +8,5 @@ the5zigmod.key.timer.start=Cronômetro
 the5zigmod.key.timer.reset=Reiniciar cronômetro
 the5zigmod.key.teamspeak=TeamSpeak
 the5zigmod.key.username_history=Histórico de nomes
-the5zigmod.key.toggle_chat_filter=Ativar/desativar filtro de chat
+the5zigmod.key.toggle_chat_filter=Toggle Chat Filter
 the5zigmod.key.change_account=Change account
